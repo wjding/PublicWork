@@ -4,6 +4,7 @@
 
 akamaihd.net
 facebook.com
+ggpht.com
 gmail.com
 google-analytics.com
 google.au
@@ -20,3 +21,4 @@ gstatic.com
 sourceforge.com
 twitter.com
 youtube.com
+ytimg.com
