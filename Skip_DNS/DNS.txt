@@ -1,0 +1,22 @@
+#
+# Copyright 2016 Steven Weijie Ding wjdingdev<at>gmail.com
+#
+
+akamaihd.net
+facebook.com
+gmail.com
+google-analytics.com
+google.au
+google.cn
+google.co.in
+google.com
+google.com.hk
+googlesyndication.com
+googletagservices.com
+googleusercontent.com
+googleusercontent.com
+googlevideo.com
+gstatic.com
+sourceforge.com
+twitter.com
+youtube.com
