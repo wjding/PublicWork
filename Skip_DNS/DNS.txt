@@ -11,6 +11,7 @@ akamai.net
 facebook.com
 ggpht.com
 ggpt.com
+github.com
 gmail.com
 goo.gl
 google-analytics.com
