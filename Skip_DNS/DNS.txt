@@ -1,10 +1,16 @@
 #
-# Copyright 2016 Steven Weijie Ding wjdingdev<at>gmail.com
+# This file contains DNS domains that should be resolved by non-Chinese DNS
+# servers. 
+#
+# Copyright 2017 Steven Weijie Ding wjdingdev<at>gmail.com
 #
 
+akamaiedge.net
 akamaihd.net
+akamai.net
 facebook.com
 ggpht.com
+ggpt.com
 gmail.com
 goo.gl
 google-analytics.com
