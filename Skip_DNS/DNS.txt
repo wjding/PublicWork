@@ -9,6 +9,7 @@ akamaiedge.net
 akamaihd.net
 akamai.net
 facebook.com
+fbcdn.net
 ggpht.com
 ggpt.com
 github.com
@@ -20,6 +21,7 @@ google.cn
 google.co.in
 google.com
 google.com.hk
+googleapis.com
 googlesyndication.com
 googletagservices.com
 googleusercontent.com
@@ -31,4 +33,3 @@ twitter.com
 wikipedia.org
 youtube.com
 ytimg.com
-fbcdn.net
