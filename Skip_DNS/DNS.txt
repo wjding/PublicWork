@@ -5,9 +5,9 @@
 # Copyright 2017 Steven Weijie Ding wjdingdev<at>gmail.com
 #
 
+akamai.net
 akamaiedge.net
 akamaihd.net
-akamai.net
 facebook.com
 fbcdn.net
 ggpht.com
@@ -28,6 +28,8 @@ googleusercontent.com
 googleusercontent.com
 googlevideo.com
 gstatic.com
+openvpn.net
+slideshare.net
 sourceforge.com
 twitter.com
 wikipedia.org
