@@ -8,6 +8,7 @@
 akamai.net
 akamaiedge.net
 akamaihd.net
+appspot.com
 facebook.com
 fbcdn.net
 ggpht.com
@@ -32,6 +33,7 @@ openvpn.net
 slideshare.net
 sourceforge.com
 twitter.com
+twimg.com
 wikipedia.org
 youtube.com
 ytimg.com
