@@ -5,6 +5,7 @@
 # Copyright 2017 Steven Weijie Ding wjdingdev<at>gmail.com
 #
 
+.goog
 akamai.net
 akamaiedge.net
 akamaihd.net
@@ -29,11 +30,15 @@ googleusercontent.com
 googleusercontent.com
 googlevideo.com
 gstatic.com
+mozaws.net
 openvpn.net
+rawgit.com
 slideshare.net
 sourceforge.com
-twitter.com
 twimg.com
+twitter.com
+w3schools.com
 wikipedia.org
 youtube.com
 ytimg.com
+
