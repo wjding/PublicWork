@@ -67,7 +67,7 @@ twitter.com
 .twimg.com
 
 # ??
-.t.co
+t.co
 
 # nytimes
 .nytimes.com
