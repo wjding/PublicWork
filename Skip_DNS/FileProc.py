@@ -2,6 +2,8 @@
 # Base class for file processing. 
 # Sub-class need to re-implement _custom_init().
 
+import sys
+
 class FileProc:
 	_in_fd = None
 	_out_fd = None
@@ -38,14 +40,15 @@ class FileProc:
 	def _proc(self):
 		self._curr_ln = 0
 		line = self._in_fd.readline()
-		while (line)
+		while (line):
 			self._curr_ln += 1
+			line = line.strip()
 			self._custom_proc(line)
 			line = self._in_fd.readline()
 
 	def _custom_proc(self, line):
 		pass
 
-	def output(*argv):
-		print(argv, file=self._out_fd)
+	def output(self, *argv):
+		print(" ".join(argv), file=self._out_fd)
 
