@@ -32,7 +32,7 @@
 .gstatic.com
 
 # Mozilla
-.mozilla.org
+;.mozilla.org
 
 # Youtube
 .youtube.com
@@ -130,6 +130,11 @@ slideshare.net
 .ggpt.com
 .rawgit.com
 pxlme.me
+sixxs.org
+yzu.edu.tw
+onedrive.live.com
+toolur.com
+agenciaid.com.br
 
 # Not used
 ;pan.baidu.com
