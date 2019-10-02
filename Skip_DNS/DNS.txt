@@ -5,40 +5,135 @@
 # Copyright 2017 Steven Weijie Ding wjdingdev<at>gmail.com
 #
 
+# Google
+.appspot.com
+.doubleclick.net
+.gmail.com
+.goo.gl
 .goog
-akamai.net
-akamaiedge.net
-akamaihd.net
-appspot.com
-facebook.com
-fbcdn.net
-ggpht.com
-ggpt.com
-github.com
-gmail.com
-goo.gl
-google-analytics.com
-google.au
-google.cn
-google.co.in
-google.com
-google.com.hk
-googleapis.com
-googlesyndication.com
-googletagservices.com
-googleusercontent.com
-googleusercontent.com
-googlevideo.com
-gstatic.com
-mozaws.net
-openvpn.net
-rawgit.com
-slideshare.net
-sourceforge.com
-twimg.com
-twitter.com
+.google-analytics.com
+.google.au
+.google.ca
+.google.cn
+.google.co.in
+.google.com
+.google.com.au
+.google.com.br
+.google.com.hk
+.google.fr
+.google.hk
+.google.pl
+.googleapis.com
+.googlesyndication.com
+.googletagmanager.com
+.googletagservices.com
+.googleusercontent.com
+.googlevideo.com
+.gstatic.com
+
+# Mozilla
+.mozilla.org
+
+# Youtube
+.youtube.com
+.ggpht.com
+.ytimg.com
+
+# Sourceforge
+.sourceforge.net
+.mail-archive.com
+
+# Blog
+.blogspot.com
+.blogspot.in
+.blogger.com
+
+# Wikipedia
+.wikipedia.org
+
+# Open Touch
+.opentouch.tv
+
+# BTSMTH
+.btsmth.com
+.mitbbs.com
+
+# Facebook
+.facebook.com
+.fbcdn.net
+
+# Twitter
+.twitter.com
+.twimg.com
+
+# ??
+.t.co
+
+# nytimes
+.nytimes.com
+.nyt.com
+
+# bit.ly
+.bit.ly
+
+# freenode.net
+.freenode.net
+
+# aliexpress
+.aliexpress.com
+
+# Vimeo
+.vimeo.com
+
+# Apache
+.apache.org
+
+# Linkerd
+.linkerd.io
+
+# Redis
+.redis.io
+
+# W3school
 w3schools.com
-wikipedia.org
-youtube.com
-ytimg.com
+
+# Git
+github.com
+
+# VPN
+freevpn.me
+freevpn.se
+freevpn.im
+freevpn.it
+freevpn.be
+freevpn.co.uk
+openvpn.net
+
+# Reddit
+reddit.com
+
+# BBC
+bbc.co.uk
+bbc.com
+bbci.co.uk
+topgear.com
+
+# Slideshare
+slideshare.net
+
+# Others
+.devstack.org
+.mozaws.net
+.akamai.net
+.akamaiedge.net
+.akamaihd.net
+.ggpt.com
+.rawgit.com
+pxlme.me
+
+# Not used
+;pan.baidu.com
+;amazonaws.com
+# Python sites
+;python.org
 
