@@ -12,7 +12,7 @@ class dnsmasq(FileProc):
 			return
 		if line[0] == "#" or line[0] == ";":
 			return
-		self.output("server=/%s/127.0.0.1#5353" % line)
+		self.output("if(dnsDomainIs(host, \"%s\")) { return my_proxy; }" % line)
 
 if __name__ == "__main__":
 	a = dnsmasq(sys.stdin)
