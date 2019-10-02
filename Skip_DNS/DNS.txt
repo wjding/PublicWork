@@ -63,7 +63,7 @@
 .fbcdn.net
 
 # Twitter
-.twitter.com
+twitter.com
 .twimg.com
 
 # ??
