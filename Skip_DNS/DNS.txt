@@ -16,6 +16,7 @@
 .google.ca
 .google.cn
 .google.co.in
+.google.co.jp
 .google.com
 .google.com.au
 .google.com.br
