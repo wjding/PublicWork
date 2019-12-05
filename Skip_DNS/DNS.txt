@@ -63,11 +63,9 @@
 .fbcdn.net
 
 # Twitter
-.twitter.com
+twitter.com
 .twimg.com
-
-# ??
-.t.co
+t.co
 
 # nytimes
 .nytimes.com
@@ -91,14 +89,17 @@
 # Linkerd
 .linkerd.io
 
-# Redis
-.redis.io
+# Redis - removed 20191205
+;.redis.io
 
-# W3school
-w3schools.com
+# W3school - removed 20191205
+;w3schools.com
 
-# Git
-github.com
+# Git - removed 20191205
+;github.com
+
+# Spotify
+spotify.com
 
 # VPN
 freevpn.me
@@ -122,19 +123,25 @@ topgear.com
 slideshare.net
 
 # Others
-.devstack.org
-.mozaws.net
 .akamai.net
 .akamaiedge.net
 .akamaihd.net
+.ampproject.org
+.dailymail.co.uk
+.devstack.org
 .ggpt.com
+.mozaws.net
 .rawgit.com
+.virginmedia.com
+.archive.org
+agenciaid.com.br
+cnn.com
+foxnews.com
+onedrive.live.com
 pxlme.me
 sixxs.org
-yzu.edu.tw
-onedrive.live.com
 toolur.com
-agenciaid.com.br
+yzu.edu.tw
 
 # Not used
 ;pan.baidu.com
