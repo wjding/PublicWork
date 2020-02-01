@@ -59,6 +59,10 @@
 .btsmth.com
 .mitbbs.com
 
+# Dropbox
+dropbox.com
+.dropboxusercontent.com
+
 # Facebook
 .facebook.com
 .fbcdn.net
@@ -97,7 +101,8 @@ t.co
 ;w3schools.com
 
 # Git - removed 20191205
-;github.com
+github.com
+.githubusercontent.com
 
 # Spotify
 spotify.com
@@ -143,6 +148,8 @@ pxlme.me
 sixxs.org
 toolur.com
 yzu.edu.tw
+
+tineye.com
 
 # Not used
 ;pan.baidu.com
